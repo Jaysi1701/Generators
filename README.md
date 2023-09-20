@@ -1,2 +1,2 @@
 # Generators
- Hatsuden Boturu is a daily use IOT embedded beverage flask that can generate Electricity using the contrasting temperatures of the beverages user stores in it.
+wokwi code to connect esp 32 with MPU6050 sensor , rgb light and a push button ,with wifi and bluetooth connectivity
