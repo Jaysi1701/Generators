@@ -12,7 +12,11 @@ Seebeck effect. IoT beverage flask emerges as a user-friendly and eco-conscious 
 ![image](https://github.com/Jaysi1701/Generators/assets/128627421/fb05a0cf-51ea-449b-9fe6-58f5381060fa)
 
 ## Interface 
-![Screenshot (254)](https://github.com/Jaysi1701/Generators/assets/128627421/5836e9de-a91d-4f48-8542-d9228ccb415e)
+
+  ![Screenshot (254)](https://github.com/Jaysi1701/Generators/assets/128627421/5836e9de-a91d-4f48-8542-d9228ccb415e) 
+
+
+![image](https://github.com/Jaysi1701/Generators/assets/128627421/5e9d1d28-dcdf-4111-8ee8-877d022b2c33)  ![image](https://github.com/Jaysi1701/Generators/assets/128627421/c7fb9c4b-e2bf-48aa-acf5-7bf857f6f8af)
 
 
 
